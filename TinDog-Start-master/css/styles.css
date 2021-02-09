@@ -53,3 +53,11 @@ h1 {
     transform: rotate(25deg);
     margin-left: 15%;
 }
+
+
+/* Features */
+#features {
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 1.5rem;
+}
